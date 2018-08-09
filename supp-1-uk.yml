@@ -1,1 +1,4 @@
-y: 3333
+properties:
+  market: uk
+  object:
+    name: ola
